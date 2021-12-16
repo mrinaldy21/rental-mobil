@@ -1,0 +1,10 @@
+const actionType = {
+  ADD_TO_RESERVASI: "ADD_TO_RESERVASI",
+  PLUS_CAR: "PLUS_CAR",
+  MINUS_CAR: "MINUS_CAR",
+  REMOVE_CAR: "MINUS_CAR",
+  LIST_CARS: "LIST_CARS",
+  TOTAL_CAR: "TOTAL_CAR"
+}
+
+export default actionType
